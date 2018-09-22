@@ -11,7 +11,7 @@ void main() {
   runApp( MaterialApp(
     home: new Home(),
     routes: <String, WidgetBuilder> { //5
-        '/screen1': (BuildContext context) => new changeTime() //7
+        //7
       }
   ));
 }
