@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "46798060175",
+    "firebase_url": "https://taleemhajar.firebaseio.com",
+    "project_id": "taleemhajar",
+    "storage_bucket": "taleemhajar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46798060175:android:6344c9d3d4ce8234",
+        "android_client_info": {
+          "package_name": "com.example.taeleemhajar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46798060175-1293hohbup8u58nb2a2fud6v17dt66cu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeEehhInPRWPxhp_kORtyYj3zKPFKTvTg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
