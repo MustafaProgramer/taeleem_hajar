@@ -39,7 +39,7 @@ class HomeState extends State<Home> {
 
   var drawerItems = [
     {"DTitle": "الصفحة الرئيسية", "DIcon": Icons.home},
-    {"DTitle": "تسجيل الدخول", "DIcon": Icons.vpn_key},
+    {"DTitle": "الإدارة", "DIcon": Icons.vpn_key},
     {"DTitle": "الإعدادات", "DIcon": Icons.settings}
   ];
 
